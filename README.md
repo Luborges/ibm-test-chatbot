@@ -15,6 +15,7 @@ To run this project you must:
 
 ### Running migrations
 
+* It may be necessary to run ```npm install -g knex``` if some error occur.
 * Run ```npm run knex:migrate``` at the backend folder to execute the migrations and create the database tables.
 
 ### Watson assistant
